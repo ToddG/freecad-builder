@@ -6,7 +6,8 @@ Docker container to build and run freecad
 ## quickstart
 
     build-container.sh
-    build-freecad.sh
+    compile-freecad.sh
+    run-freecad.sh
 
 ## clear a build (from the host)
 

@@ -1,2 +1,4 @@
 
-freecad-bin
+freecad-bin/*
+freecad-other/*
+
